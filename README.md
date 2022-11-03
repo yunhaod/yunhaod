@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yunhaod
-- 👀 I’m interested in ... Electrical Engineering
+- 👋 Hi, I’m Yun Hao Dong
+- 👀 I’m interested in Electrical Engineering
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yd2435@nyu.edu
